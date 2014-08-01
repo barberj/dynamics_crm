@@ -1,3 +1,5 @@
+require 'securerandom'
+
 module DynamicsCRM
   module XML
     module MessageBuilder
